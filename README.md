@@ -1,3 +1,5 @@
+Kris Stinson
+
 # Exploratory data analysis assignment
 
 For this assignment you should follow these steps.
